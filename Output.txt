@@ -1,0 +1,86 @@
+STUDENT MANAGEMENT SYSTEM
+-------------------------
+
+        1. Add Student
+        2. Update Student
+        3. Delete Student
+        4. View Student
+        5. Exit
+Enter the choice:1
+
+Enter Name: alpha
+Enter Grade: 95
+-->Added alpha: 95
+
+        1. Add Student
+        2. Update Student
+        3. Delete Student
+        4. View Student
+        5. Exit
+Enter the choice:1
+
+Enter Name: beta
+Enter Grade: 90
+-->Added beta: 90
+
+        1. Add Student
+        2. Update Student
+        3. Delete Student
+        4. View Student
+        5. Exit
+Enter the choice:1
+
+Enter Name: gamma
+Enter Grade: 98
+-->Added gamma: 98
+
+        1. Add Student
+        2. Update Student
+        3. Delete Student
+        4. View Student
+        5. Exit
+Enter the choice:1
+
+Enter Name: delta
+Enter Grade: 100
+-->Added delta: 100
+
+        1. Add Student
+        2. Update Student
+        3. Delete Student
+        4. View Student
+        5. Exit
+Enter the choice:2
+
+Enter Name: alpha
+Enter Grade: 100
+Updated student alpha: 100
+
+        1. Add Student
+        2. Update Student
+        3. Delete Student
+        4. View Student
+        5. Exit
+Enter the choice:3
+
+Enter Name: delta
+delta deleted...
+
+        1. Add Student
+        2. Update Student
+        3. Delete Student
+        4. View Student
+        5. Exit
+Enter the choice:4
+-->alpha: 100
+-->beta: 90
+-->gamma: 98
+
+        1. Add Student
+        2. Update Student
+        3. Delete Student
+        4. View Student
+        5. Exit
+Enter the choice:5
+
+THANK YOU!
